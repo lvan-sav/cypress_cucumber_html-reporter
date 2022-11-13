@@ -29,7 +29,7 @@ jobs:
           record: true
           tag: node-${{ matrix.node }}
           install-command: npm install
-          config-file: config/cypress.config.js
+          config-file: cypress.config.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
