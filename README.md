@@ -54,9 +54,8 @@ For MacOS, you may get a security warning from MacOS. If you do, open System Pre
 Go to Security Settings. You should see a question asking if you want to open it anyway. Say yes.
 
 If you want to observe the letest test run report, you may follow below link:
-
-    https://lvan-sav.github.io/telnyx_texting_cypress-cucumber/
+[Test report](https://lvan-sav.github.io/telnyx_texting_cypress-cucumber/)
 
 If you want to observe all runs, you may visit cypress dashboard by the link below:
 
-    https://dashboard.cypress.io/projects/1hmt6v/runs
+[Cypress Dashboard](https://dashboard.cypress.io/projects/1hmt6v/runs)
