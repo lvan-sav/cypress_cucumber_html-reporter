@@ -55,7 +55,7 @@ Go to Security Settings. You should see a question asking if you want to open it
 
 If you want to observe the letest test run report, you may follow below link:
 
-    https://lvansav.github.io/telnyx_texting_cypress-cucumber/
+    https://lvan-sav.github.io/telnyx_texting_cypress-cucumber/
 
 If you want to observe all runs, you may visit cypress dashboard by the link below:
 
