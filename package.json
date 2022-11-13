@@ -4,7 +4,7 @@
   "description": "Project for testing the Telnyx website by cypress+cucumber frameworks",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run --config-file config/cypress.config.js",
+    "test": "cypress run cypress.config.js",
     "cypress:open": "cypress open --config-file config/cypress.config.js",
     "cypress:run:chrome": "cypress run --config-file config/cypress.config.js --browser chrome",
     "cypress:run:firefox": "cypress run --config-file config/cypress.config.js --browser firefox",
